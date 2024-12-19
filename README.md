@@ -1,0 +1,2 @@
+# ClinicX
+Clinical Automation System
